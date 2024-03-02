@@ -1,1 +1,1 @@
-Simple GraphQL-example made with @apollo/graphql-library
+Simple GraphQL-example made with @apollo/server-library
